@@ -1,1 +1,1 @@
-| [LINKS](./links.md) | [LOG](TXT/mylog.txt) | [GitHub](https://github.com/reyhanwiyasa/os232/) |
+| [LINKS](LINKS/) | [LOG](TXT/mylog.txt) | [GitHub](https://github.com/reyhanwiyasa/os232/) |
