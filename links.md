@@ -19,3 +19,6 @@ Basics about BASH. It helps me understand more about BASH
 * [ChatGPT](https://chat.openai.com/) -- A very useful bot used to generate useful response, including OS related topics
 
 * [File Systems as fast as possible](https://www.youtube.com/watch?v=BV0-EPUYuQc) -- Gives basic understanding about file systems
+
+## Week04
+* [Inside Your Computer - Bettina Bair](https://youtu.be/AkFi90lZmXA?si=6_Mn7kLYVAYtERpx) -- Well-animated TedEx video for learning OS

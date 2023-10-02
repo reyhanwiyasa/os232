@@ -34,3 +34,8 @@ ZCZC W03 200 L02 Classroom
 ZCZC W03 120 L80 Watching youtube
 ZCZC W03 100 L88 Workout
 ZCZC W03 45 L05 Quiz related
+ZCZC W04 100 L02 Classroom
+ZCZC W04 180 L70 Studying for other courses
+ZCZC W04 1980 L84 Sleep
+ZCZC W04 60 L13 Assignment #03
+ZCZC W04 120 L88 Workout
