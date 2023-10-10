@@ -22,3 +22,6 @@ Basics about BASH. It helps me understand more about BASH
 
 ## Week04
 * [Inside Your Computer - Bettina Bair](https://youtu.be/AkFi90lZmXA?si=6_Mn7kLYVAYtERpx) -- Well-animated TedEx video for learning OS
+
+## Week05
+* [Virtual Memory: 3 What is Virtual Memory?](https://youtu.be/qlH4-oHnBb8?si=ovbP2MVVbEcZIgwH) -- Gives me an understanding of what is virtual memory
