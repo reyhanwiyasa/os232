@@ -44,3 +44,8 @@ ZCZC W05 2160 L84 Sleep
 ZCZC W05 150 L70 Studying for other courses
 ZCZC W05 80 L14 Assignment #04
 ZCZC W05 100 L80 Watching youtube
+ZCZC W06 140 L80 Watching youtube
+ZCZC W06 240 L70 Studying for other courses
+ZCZC W06 80 L88 Workout
+ZCZC W06 45 L05 Quiz related
+ZCZC W06 2160 L84 Relax, Rest, Nap, and Sleep
