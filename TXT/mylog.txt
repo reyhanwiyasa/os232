@@ -49,3 +49,8 @@ ZCZC W06 240 L70 Studying for other courses
 ZCZC W06 80 L88 Workout
 ZCZC W06 45 L05 Quiz related
 ZCZC W06 2160 L84 Relax, Rest, Nap, and Sleep
+ZCZC W07 80 L88 Workout
+ZCZC W07 2000 L84 Sleep
+ZCZC W07 240 L70 Studying for other courses
+ZCZC W07 50 L05 Quiz related
+ZCZC W07 100 L80 Watching youtube
