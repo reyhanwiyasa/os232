@@ -31,3 +31,6 @@ Basics about BASH. It helps me understand more about BASH
 
 ## Week07
 * [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=zjryVBWFWXSWTFX6) -- Gives a brief explanation about process synchronization
+
+## Week08
+* [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8) -- Helps me complete the assignment of Week08

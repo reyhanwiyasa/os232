@@ -54,3 +54,7 @@ ZCZC W07 2000 L84 Sleep
 ZCZC W07 240 L70 Studying for other courses
 ZCZC W07 50 L05 Quiz related
 ZCZC W07 100 L80 Watching youtube
+ZCZC W08 200 L70 Studying for other courses
+ZCZC W08 30 L05 Quiz related
+ZCZC W08 180 L80 Watching youtube
+ZCZC W08 1940 L84 Relax, Rest, Nap, and Sleep
